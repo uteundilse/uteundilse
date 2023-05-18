@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst, Learner, Architect
 --------------------------------
 
-The University of Edinburgh MSc graduate with Distinction. Data Analyst skilled in Excel, MySQL, Python, Power BI etc. Committed to learning and welcomes new challenges.r
+The University of Edinburgh MSc graduate with Distinction.  Data Analyst skilled in Excel, MySQL, Python, Power BI etc.  Committed to learning and welcomes new challenges.r
 
 * 🌍  I'm based in Chengdu, Sichuan Province, China
 * ✉️  You can contact me at [chenqiaolong12@16.com](mailto:chenqiaolong12@16.com)
