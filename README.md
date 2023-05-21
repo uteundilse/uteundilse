@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ute Chen</h1>
+<h1 align="center">Hi 👋, I'm Chen</h1>
 <h3 align="center">Data Analyst skilled in Excel, MySQL, Python, Power BI etc.</h3>
 
 - 🌱 I’m currently learning **Everthing Data Analyst**
