@@ -5,11 +5,7 @@
 
 - ⚡ **Delving introspectively to pivot my vocational trajectory. devising a curriculum of autodidactic pursuits to attain prerequisite aptitudes, such as facility with excel, mysql, python and other fundamental implementa, as well as assorted methodologies for data analysis. with the aspiration of becoming an exemplary data analyst.**
 
-- 📫 Possesses strong logical thinking and analytical judgment skills, excels at collecting and organizing information, and providing solutions and reports.
-
-- 📫 Has a strong ability to handle pressure, treats work seriously and carefully, and is skilled at communication and exchange, with a strong ability to cooperate as a team.
-
-- ⚡ **Skills**
+- **Skills**
 1. Python (Numpy, Pandas, Matplotlib, Seaborn...)  
 2. MySQL (Searching, Subqueries, Multi-table joins...)
 3. Power BI (Create Dashborad, Story telling...)
