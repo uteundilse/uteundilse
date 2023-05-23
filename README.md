@@ -11,8 +11,7 @@
 3. Power BI (Create Dashborad, Story telling...)
 4. Excel (PivotTable, Functions like VLOOKUP, SUMIFS, COUNTIFS...)
 5. Machine Learning (Random forests, Decision trees, Linear regression, Plain Bayesian...)
-6. Data Analyst Methods (Comparative analysis, dimensional disaggregation analysis, funnel analysis...)
-
+6. Data Analyst Methods (Comparative analysis, dimensional disaggregation analysis, funnel analysis...)  
 
 - 📫 How to reach me **chenqiaolong12@163.com**
 
