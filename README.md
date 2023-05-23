@@ -3,11 +3,21 @@
 
 - 🌱 I’m currently learning **Everthing Data Analyst**
 
-- 📫 How to reach me **chenqiaolong12@163.com**
-
 - ⚡ **Delving introspectively to pivot my vocational trajectory. devising a curriculum of autodidactic pursuits to attain prerequisite aptitudes, such as facility with excel, mysql, python and other fundamental implementa, as well as assorted methodologies for data analysis. with the aspiration of becoming an exemplary data analyst.**
 
+- 📫 Possesses strong logical thinking and analytical judgment skills, excels at collecting and organizing information, and providing solutions and reports.
 
+- 📫 Has a strong ability to handle pressure, treats work seriously and carefully, and is skilled at communication and exchange, with a strong ability to cooperate as a team.
+
+- ⚡ **Skills**
+1. Python (Numpy, Pandas, Matplotlib, Seaborn...)  
+2. MySQL (Searching, Subqueries, Multi-table joins...)
+3. Power BI (Create Dashborad, Story telling...)
+4. Excel (PivotTable, Functions like VLOOKUP, SUMIFS, COUNTIFS...)
+5. Machine Learning (Random forests, Decision trees, Linear regression, Plain Bayesian...)
+6. Data Analyst Methods (Comparative analysis, dimensional disaggregation analysis, funnel analysis...)
+
+- 📫 How to reach me **chenqiaolong12@163.com**
 
 <h3 align="left">Today’s studying plants the seeds for tomorrow’s exam success</h3>
 <p align="left">
