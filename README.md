@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **Everthing Data Analyst**
 
-- ⚡ **Delving introspectively to pivot my vocational trajectory. devising a curriculum of autodidactic pursuits to attain prerequisite aptitudes, such as facility with excel, mysql, python and other fundamental implementa, as well as assorted methodologies for data analysis. with the aspiration of becoming an exemplary data analyst.**
-
+- ⚡ Delving introspectively to pivot my vocational trajectory. devising a curriculum of autodidactic pursuits to attain prerequisite aptitudes, such as facility with excel, mysql, python and other fundamental implementa, as well as assorted methodologies for data analysis. with the aspiration of becoming an exemplary data analyst.  
 
 - **Skills**
 1. Python (Numpy, Pandas, Matplotlib, Seaborn...)  
