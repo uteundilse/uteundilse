@@ -18,7 +18,7 @@
 
 - 🏆 Land a job
 
-- 🛩️ Exploring Data Analytics, Data Science, Python, Machine Learning & Statistics, Deep Learning
+- 🛩️ Exploring Data Analytics, Data Science, Python, Machine Learning & Statistics, Deep Learning...
 
 - ⚡ Fun fact: Photography 📷 | Traveling 🌏 | Basketball 🏀 | Writing 📝
 
