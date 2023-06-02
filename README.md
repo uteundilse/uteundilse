@@ -20,7 +20,7 @@
 
 - 🛩️ Exploring Data Analytics, Data Science, Python, Machine Learning & Statistics, Deep Learning...
 
-- 🌱 [My Data Analyst Roadmap](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/README.md) 
+- 🌱 [My Data Analyst Roadmap](https://github.com/uteundilse/Data-Analyst-Roadmap/tree/main)
 
 - ⚡ Fun fact: Photography 📷 | Traveling 🌏 | Basketball 🏀 | Writing 📝
 
