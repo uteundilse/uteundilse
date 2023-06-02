@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst skilled in Excel, MySQL, Python, Power BI etc.</h3>
 
 
-- 💻 All about [Data Analyst](https://github.com/uteundilse/Data-Analyst-Practice)
+- 💻 All about **Data Analyst**
 
 - 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/qiaolong-chen-89b171218/)
 
