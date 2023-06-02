@@ -11,12 +11,12 @@
 - 🛩️ Delving introspectively to pivot my vocational trajectory. devising a curriculum of autodidactic pursuits to attain prerequisite aptitudes, such as facility with excel, mysql, python and other fundamental implementa, as well as assorted methodologies for data analysis. with the aspiration of becoming an exemplary data analyst.  
 
 - 🌱 **Skills**
-1. Python (Numpy, Pandas, Matplotlib, Seaborn...)  
-2. MySQL (Searching, Subqueries, Multi-table joins...)
-3. Power BI (Create Dashborad, Story telling...)
-4. Excel (PivotTable, Functions like VLOOKUP, SUMIFS, COUNTIFS...)
-5. Machine Learning (Random forests, Decision trees, Linear regression, Plain Bayesian...)
-6. Data Analyst Methods (Comparative analysis, dimensional disaggregation analysis, funnel analysis...)  
+  1. Python (Numpy, Pandas, Matplotlib, Seaborn...)  
+  2. MySQL (Searching, Subqueries, Multi-table joins...)
+  3. Power BI (Create Dashborad, Story telling...)
+  4. Excel (PivotTable, Functions like VLOOKUP, SUMIFS, COUNTIFS...)
+  5. Machine Learning (Random forests, Decision trees, Linear regression, Plain Bayesian...)
+  6. Data Analyst Methods (Comparative analysis, dimensional disaggregation analysis, funnel analysis...)  
 
 - 🏆 Land a job
 
