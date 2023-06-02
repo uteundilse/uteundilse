@@ -1,17 +1,26 @@
 <h1 align="center">Hi 👋, I'm Chen</h1>
 <h3 align="center">Data Analyst skilled in Excel, MySQL, Python, Power BI etc.</h3>
 
-- 🌱 I’m currently learning **Everthing Data Analyst**
 
-- ⚡ Delving introspectively to pivot my vocational trajectory. devising a curriculum of autodidactic pursuits to attain prerequisite aptitudes, such as facility with excel, mysql, python and other fundamental implementa, as well as assorted methodologies for data analysis. with the aspiration of becoming an exemplary data analyst.  
+- 💻 All about Data Analyst
 
-- **Skills**
+- 📄 Know about my work & experiences My Resume
+
+- 🔭 I’m currently learning **Everthing Data Analyst**
+
+- 🛩️ Delving introspectively to pivot my vocational trajectory. devising a curriculum of autodidactic pursuits to attain prerequisite aptitudes, such as facility with excel, mysql, python and other fundamental implementa, as well as assorted methodologies for data analysis. with the aspiration of becoming an exemplary data analyst.  
+
+- 🌱 **Skills**
 1. Python (Numpy, Pandas, Matplotlib, Seaborn...)  
 2. MySQL (Searching, Subqueries, Multi-table joins...)
 3. Power BI (Create Dashborad, Story telling...)
 4. Excel (PivotTable, Functions like VLOOKUP, SUMIFS, COUNTIFS...)
 5. Machine Learning (Random forests, Decision trees, Linear regression, Plain Bayesian...)
 6. Data Analyst Methods (Comparative analysis, dimensional disaggregation analysis, funnel analysis...)  
+
+- 🏆 Land a job
+
+- ⚡ Fun fact: Photography 📷 | Traveling 🌏 | Basketball 🏀 | Writing 📝
 
 - 📫 How to reach me **chenqiaolong12@163.com**
 
