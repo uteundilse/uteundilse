@@ -8,19 +8,19 @@
 
 - 🔭 I’m currently learning **Everthing Data Analyst**
 
-- 🌱 **Skills**
-  - **Python** (Numpy, Pandas, Matplotlib, Seaborn...)  
-  - **MySQL** (Searching, Subqueries, Multi-table joins...)
-  - **Power BI** (Create Dashborad, Story telling...)
-  - **Excel** (PivotTable, Functions like VLOOKUP, SUMIFS, COUNTIFS...)
-  - **Machine Learning** (Random forests, Decision trees, Linear regression, Plain Bayesian...)
-  - **Data Analyst Methods** (Comparative analysis, dimensional disaggregation analysis, funnel analysis...)  
+    - **Skills**
+      - **Python** (Numpy, Pandas, Matplotlib, Seaborn...)  
+      - **MySQL** (Searching, Subqueries, Multi-table joins...)
+      - **Power BI** (Create Dashborad, Story telling...)
+      - **Excel** (PivotTable, Functions like VLOOKUP, SUMIFS, COUNTIFS...)
+      - **Machine Learning** (Random forests, Decision trees, Linear regression, Plain Bayesian...)
+      - **Data Analyst Methods** (Comparative analysis, dimensional disaggregation analysis, funnel analysis...)  
 
 - 🏆 Land a job
 
 - 🛩️ Exploring Data Analytics, Data Science, Python, Machine Learning & Statistics, Deep Learning...
 
-- 📊 [My Data Analyst Roadmap](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/README.md) 
+- 🌱 [My Data Analyst Roadmap](https://github.com/uteundilse/Data-Analyst-Roadmap/blob/main/README.md) 
 
 - ⚡ Fun fact: Photography 📷 | Traveling 🌏 | Basketball 🏀 | Writing 📝
 
