@@ -4,7 +4,7 @@
 
 - 💻 All about Data Analyst
 
-- 📄 Know about my work & experiences My Resume
+- 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/qiaolong-chen-89b171218/)
 
 - 🔭 I’m currently learning **Everthing Data Analyst**
 
