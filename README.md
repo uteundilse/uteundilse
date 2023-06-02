@@ -9,12 +9,12 @@
 - 🔭 I’m currently learning **Everthing Data Analyst**
 
 - 🌱 **Skills**
-  - Python (Numpy, Pandas, Matplotlib, Seaborn...)  
-  - MySQL (Searching, Subqueries, Multi-table joins...)
-  - Power BI (Create Dashborad, Story telling...)
-  - Excel (PivotTable, Functions like VLOOKUP, SUMIFS, COUNTIFS...)
-  - Machine Learning (Random forests, Decision trees, Linear regression, Plain Bayesian...)
-  - Data Analyst Methods (Comparative analysis, dimensional disaggregation analysis, funnel analysis...)  
+  - **Python** (Numpy, Pandas, Matplotlib, Seaborn...)  
+  - **MySQL** (Searching, Subqueries, Multi-table joins...)
+  - **Power BI** (Create Dashborad, Story telling...)
+  - **Excel** (PivotTable, Functions like VLOOKUP, SUMIFS, COUNTIFS...)
+  - **Machine Learning** (Random forests, Decision trees, Linear regression, Plain Bayesian...)
+  - **Data Analyst Methods** (Comparative analysis, dimensional disaggregation analysis, funnel analysis...)  
 
 - 🏆 Land a job
 
