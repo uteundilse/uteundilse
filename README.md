@@ -22,7 +22,7 @@
 
 - 🌱 [My Data Analyst Roadmap](https://github.com/uteundilse/Data-Analyst-Roadmap/tree/main)
 
-- 🎓The University of Edunburgh Architectural and Urban Design MSc with Distinction Graduate 2022
+- 🎓 The University of Edunburgh Architectural and Urban Design MSc with Distinction Graduate 2022
 
 - ⚡ Fun fact: Photography 📷 | Traveling 🌏 | Basketball 🏀 | Writing 📝
 
