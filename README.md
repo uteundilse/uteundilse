@@ -24,7 +24,7 @@
 
 - 🎓 The University of Edunburgh Architectural and Urban Design MSc with Distinction Graduate 2022
 
-- ⚡ Fun fact: Photography 📷 | Traveling 🌏 | Basketball 🏀 | Writing 📝
+- ⚡ Fun fact: Photography 📷 | Traveling 🌏 | Basketball 🏀 |Tennis 🥎 | Writing 📝 | Reading 📖 | Relaxing 🎧
 
 - 📫 How to reach me **chenqiaolong12@163.com**
 
