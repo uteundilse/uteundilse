@@ -6,7 +6,7 @@
 
 - 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/qiaolong-chen-89b171218/)
 
-- 🔭 I’m currently learning **Everthing Data Analyst**
+- 🔭 I’m currently learning **Everthing [Data Analyst](https://github.com/uteundilse/Data-Analyst-Practice)**
 
     - **Skills**
       - **Python** (Numpy, Pandas, Matplotlib, Seaborn...)  
