@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst skilled in Excel, MySQL, Python, Power BI etc.</h3>
 
 
-- 💻 All about **Data Analyst**
+- 💻 All about **Data Analyst** I am a self-taught data analyst.  I was always interested in programming, but never had any formal training. My love of learning and curiosity about how things work led me to find ways of teaching myself new skills on my own time.
 
 - 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/qiaolong-chen-89b171218/)
 
