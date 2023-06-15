@@ -8,7 +8,7 @@ I was always interested in data analysis, but never had any formal training. My 
 
 - 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/qiaolong-chen-89b171218/)
 
-- 🔭 I’m currently learning **Everthing [Data Analyst](https://github.com/uteundilse/Data-Analyst-Practice)**
+- 🔭 My practice projects **[Data Analyst](https://github.com/uteundilse/Data-Analyst-Practice)**
 
     - **Skills**
       - **Python** (Numpy, Pandas, Matplotlib, Seaborn...)  
