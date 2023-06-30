@@ -18,7 +18,7 @@ I was always interested in data analysis, but never had any formal training. My 
       - **Machine Learning** (Random forests, Decision trees, Linear regression, Plain Bayesian...)
       - **Data Analyst Methods** (Comparative analysis, dimensional disaggregation analysis, funnel analysis...)  
 
-- 🏆 Land a job
+- 🏆 Data Analyst
 
 - 🛩️ Exploring Data Analytics, Data Science, Python, Machine Learning & Statistics, Deep Learning...
 
