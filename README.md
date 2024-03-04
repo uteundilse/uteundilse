@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Chen</h1>
-<h3 align="center">Data Analyst skilled in Excel, MySQL, Python, Power BI etc.</h3>
+<h1 align="center">Hi 👋, I'm QCHEN</h1>
+<h3 align="center"> A constant learner...</h3>
 
 
-- 💻 All about **Data Analyst.**   
-I am a self-taught data analyst.  
-I was always interested in data analysis, but never had any formal training. My love of learning and curiosity about how things work led me to find ways of teaching myself new skills on my own time.
+- 💻 All about **Self-learning.**   
+    - Used to be an architect.
+    - Be a self-taught data analyst.
+    - Sport Department manager in Decathlon.
 
 - 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/qiaolong-chen-89b171218/)
 
